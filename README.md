@@ -1,5 +1,7 @@
 # Horiseon SEO and social media marketing services
 
+[Live Link]([https://willzovo94.github.io/Homework-1/])
+
 ## Description
  - My motivation and reasoning for obuilidng this project was to learn how to impliment accessibility standards. These include elements following logical structure, accessible alt attributes, sequential order of heading attributes and more. This is important so I can gain the ability to construct better optimized search engine opportunties.
  - This solves the problem with the codebase essentially not having optimized SEO. Without it, the traffic towards the webpage and the company could be hindered. It also helps the codebase be more organized.
