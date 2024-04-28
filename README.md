@@ -10,11 +10,11 @@
  - Overall, the page describes the details of the company and what they can provide for the customers.
  - Following image shows the navigation bar that's useable.
   ```md
-  ![alt text](assets/images/Homework-1 README Picture 1.jpg)
+  ![alt text](assets/images/Homework-1-readme-1.jpg)
   ```
 - Following image shows the organization improvement within the CSS.
   ```md
-  ![alt text](assets/images/Homework-1 README Picture 2.jpg)
+  ![alt text](assets/images/Homework-1-readme-2.jpg)
   ```
 
 ## Features 
