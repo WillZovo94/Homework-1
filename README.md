@@ -9,8 +9,8 @@
  - You have an accessible navigation bar to transition you to topics on the page. Also included with scroll behavior so it transitions smoothly.
  - Overall, the page describes the details of the company and what they can provide for the customers.
  - Following image shows the navigation bar that's useable.
-![navigation bar image](assets/images/Homework-1-readme-1.jpg)
+![navigation bar image](assets/images/Homework-1 README Picture 1.jpg)
 - Following image shows the organization improvement within the CSS.
-![cleaned up CSS](assets/images/Homework-1-readme-2.jpg)
+![cleaned up CSS](assets/images/Homework-1 README Picture 2.jpg)
 ## Features 
  - Navigation bar with smooth scroll for smooth transition.
