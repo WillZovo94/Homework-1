@@ -7,7 +7,7 @@
  - This solves the problem with the codebase essentially not having optimized SEO. Without it, the traffic towards the webpage and the company could be hindered. It also helps the codebase be more organized.
  - I learned how to help the SEO of a webpage and how to organize and optimize it.
 
-## Useage
+## Usage
  - You have an accessible navigation bar to transition you to topics on the page. Also included with scroll behavior so it transitions smoothly.
  - Overall, the page describes the details of the company and what they can provide for the customers.
  - Following image shows the navigation bar that's useable.
