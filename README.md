@@ -1,6 +1,6 @@
 # Horiseon SEO and social media marketing services
 
-[Website Link]([https://willzovo94.github.io/Homework-1/](https://willzovo94.github.io/Horiseon-SEO-and-social-media-marketing-services/))
+[Website Link](https://willzovo94.github.io/Homework-1/](https://willzovo94.github.io/Horiseon-SEO-and-social-media-marketing-services/))
 
 ## Description
  - My motivation and reasoning for building this project was to learn how to impliment accessibility standards. These include elements following logical structure, accessible alt attributes, sequential order of heading attributes and more. This is important so I can gain the ability to construct better optimized search engine opportunties.
